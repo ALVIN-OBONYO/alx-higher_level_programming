@@ -3,8 +3,4 @@ SELECT `score`, `name`
 FROM `second_table`
 WHERE `score` >= 10
 ORDER BY `score` DESC;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
 
